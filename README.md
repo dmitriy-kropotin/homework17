@@ -1,6 +1,6 @@
 # homework17
 
-1. Образ создан, загружен в репозиторий `dmitriy0kropotin/nginx:1.0`
+1. Образ создан по приложенному Dockerfile, загружен в репозиторий `dmitriy0kropotin/nginx:1.0`
 
 ```
 docker pull dmitriy0kropotin/nginx:1.0
